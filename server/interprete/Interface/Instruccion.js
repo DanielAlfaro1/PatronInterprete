@@ -1,7 +1,7 @@
 class Instruccion {
     constructor(){}
 
-    interpretar(entorno){}
+    interpretar(entorno, lista_errores){}
 
     getArbol(){}
 }
